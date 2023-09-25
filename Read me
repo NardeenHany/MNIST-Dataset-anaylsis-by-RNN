@@ -1,0 +1,6 @@
+Developed and optimized a recurrent neural network (RNN) model for the classification of images of handwritten digits 
+in the MNIST dataset, achieving an accuracy of 99% on the test set.
+Preprocessed the image data by resizing and normalizing the images.
+Conducted experiments to optimize the model architecture and hyperparameters, as well as data augmentation 
+techniques to improve model performance.
+Demonstrated proficiency in deep learning frameworks such as TensorFlow and Keras, as well as computer
